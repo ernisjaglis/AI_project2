@@ -131,7 +131,6 @@ DATE;COMPANY;COMPANY;TO;FROM;TEMPERATURE;SKY INFORMATION;WIND SPEED;WIND ANGLE;V
 2019-10-26;Ryanair;Ryanair;VilniusVNO;LondonasLTN;11 °C;Clear.;15 km/h;200;16 km;22:40:00;22:40:00;On Time [-5 5] min.
 2019-10-26;Ryanair;Ryanair;VilniusVNO;DublinasDUB;10 °C;Clear.;13 km/h;190;16 km;23:10:00;23:10:00;On Time [-5 5] min.
 2019-10-27;Aeroflot;Aeroflot;VilniusVNO;MaskvaSVO;9 °C;Clear.;13 km/h;200;8 km;04:00:00;04:00:00;On Time [-5 5] min.
-2019-10-27;GetJetAirlines;GetJetAirlines;VilniusVNO;AntalijaAYT;9 °C;Fog.;15 km/h;190;5 km;04:40:00;04:40:00;On Time [-5 5] min.
 2019-10-27;GetJetAirlines;GetJetAirlines;VilniusVNO;FarasFAO;9 °C;Fog.;15 km/h;190;5 km;04:55:00;04:55:00;On Time [-5 5] min.
 2019-10-27;GetJetAirlines;GetJetAirlines;VilniusVNO;AntalijaAYT;9 °C;Fog.;13 km/h;170;5 km;05:40:00;05:40:00;On Time [-5 5] min.
 2019-10-27;WizzAir;WizzAir;VilniusVNO;KutaisisKUT;8 °C;Rain. Fog.;11 km/h;170;3 km;06:10:00;06:10:00;On Time [-5 5] min.
